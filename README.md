@@ -1,2 +1,7 @@
 # FaceDetectionb
-i'll add later
+ok you'll need the following modules in python 
+- openCV-python
+- Face_Recognition
+-PIllOW
+-numpy
+
