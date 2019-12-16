@@ -12,7 +12,7 @@ vreco.py is an on going project where the script will recognize poeple from dire
 
 instructions to use box.py
 
-first you'll have to add one sample image for the person you are testing this script with. 
+first you'll have to add one sample image of the person you are testing this script for. 
 to do that place that sample image in /test/known folder. 
 then open box.py and add the following code
 
