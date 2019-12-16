@@ -18,6 +18,9 @@ then open box.py and add the following code
 
 image_name = f.load_image_file("/test/known/file_name.jpg")
 known_encoding = f.face_encodings(image_name)
+
+
+
 then just add the known_encoding to the knownFaces array and add the name of the person to knownNames array.
 you are good to go now.
 
