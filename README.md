@@ -14,9 +14,13 @@ instructions to use box.py
 
 first you'll have to add one sample image of the person you are testing this script for. 
 to do that place that sample image in /test/known folder. 
+
+
 then open box.py and add the following code
 
 image_name = f.load_image_file("/test/known/file_name.jpg")
+
+
 known_encoding = f.face_encodings(image_name)
 
 
